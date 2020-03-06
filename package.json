@@ -1,0 +1,36 @@
+{
+    "name": "@lomelidev/react-native-walkthrough",
+    "version": "1.0.0",
+    "description": "Simple and configurable app introduction slider for react native",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lomeliDev/react-native-walkthrough.git"
+    },
+    "keywords": [
+        "walkthrough",
+        "swiper",
+        "App",
+        "Intro",
+        "ios",
+        "android",
+        "react-component",
+        "react-native",
+        "slider",
+        "lomeli",
+        "Lomelí Technology",
+        "Lomeli Technology",
+        "miguel lomeli",
+        "toopago"
+    ],
+    "author": "Miguel Lomeli <miguel@lomeli.io> (https://lomeli.io/)",
+    "contributors": [{
+        "name": "Miguel Lomeli",
+        "email": "miguel@lomeli.io"
+    }],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/lomeliDev/react-native-walkthrough/issues"
+    },
+    "homepage": "https://github.com/lomeliDev/react-native-walkthrough"
+}
